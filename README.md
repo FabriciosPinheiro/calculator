@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Calculadora
 
-- [Visite o projeto on-line](https://fabriciospinheiro.github.io/chat/)
+- [Visite o projeto on-line](https://fabriciospinheiro.github.io/calculator/)
 
 ## 🔖 Layout
 
